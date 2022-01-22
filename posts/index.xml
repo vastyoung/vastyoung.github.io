@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My Blog</title>
-    <link>http://example.org/posts/</link>
+    <link>https://vastyoung.github.io/posts/</link>
     <description>Recent content in Posts on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jan 2022 20:20:17 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Jan 2022 20:20:17 +0800</lastBuildDate><atom:link href="https://vastyoung.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>在windows上安装linux虚拟机</title>
-      <link>http://example.org/posts/%E5%9C%A8windows%E4%B8%8A%E5%AE%89%E8%A3%85linux%E8%99%9A%E6%8B%9F%E6%9C%BA/</link>
+      <link>https://vastyoung.github.io/posts/%E5%9C%A8windows%E4%B8%8A%E5%AE%89%E8%A3%85linux%E8%99%9A%E6%8B%9F%E6%9C%BA/</link>
       <pubDate>Sat, 22 Jan 2022 20:20:17 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E5%9C%A8windows%E4%B8%8A%E5%AE%89%E8%A3%85linux%E8%99%9A%E6%8B%9F%E6%9C%BA/</guid>
+      <guid>https://vastyoung.github.io/posts/%E5%9C%A8windows%E4%B8%8A%E5%AE%89%E8%A3%85linux%E8%99%9A%E6%8B%9F%E6%9C%BA/</guid>
       <description>在 windows 上使用 vmworkstation 安装 linux 虚拟机 我们的个人电脑使用的操作系统通常都是 windows，如果要体验 linux 操作系统，一般有以下几种做法：
  在个人电脑上重新装一个 linux 系统以替换 windows 系统； 将个人电脑安装成双系统，让 linux 系统和 windows 系统共存； 在 windows 系统中使用虚拟机软件安装体验 linux 系统；  使用第三种方式在 windows 系统中使用虚拟机软件不会影响我们本来的系统，让我们一台电脑也能体验不同的操作系统，就算虚拟机坏掉了，也不会影响我们本来的系统，只用重新安装一个虚拟机就可以了。
 windows 上常见的虚拟机软件 windows 上常见的虚拟机软件有这些:
