@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vastyoung.github.io/</loc>
+    <loc>http://example.org/</loc>
     <lastmod>2022-01-22T20:20:17+08:00</lastmod>
   </url><url>
-    <loc>https://vastyoung.github.io/posts/</loc>
+    <loc>http://example.org/posts/</loc>
     <lastmod>2022-01-22T20:20:17+08:00</lastmod>
   </url><url>
-    <loc>https://vastyoung.github.io/posts/%E5%9C%A8windows%E4%B8%8A%E5%AE%89%E8%A3%85linux%E8%99%9A%E6%8B%9F%E6%9C%BA/</loc>
+    <loc>http://example.org/posts/%E5%9C%A8windows%E4%B8%8A%E5%AE%89%E8%A3%85linux%E8%99%9A%E6%8B%9F%E6%9C%BA/</loc>
     <lastmod>2022-01-22T20:20:17+08:00</lastmod>
   </url><url>
-    <loc>https://vastyoung.github.io/post/blog/</loc>
+    <loc>http://example.org/post/blog/</loc>
     <lastmod>2022-01-12T18:45:03+08:00</lastmod>
   </url><url>
-    <loc>https://vastyoung.github.io/post/</loc>
+    <loc>http://example.org/post/</loc>
     <lastmod>2022-01-12T18:45:03+08:00</lastmod>
   </url><url>
-    <loc>https://vastyoung.github.io/categories/</loc>
+    <loc>http://example.org/categories/</loc>
   </url><url>
-    <loc>https://vastyoung.github.io/tags/</loc>
+    <loc>http://example.org/tags/</loc>
   </url>
 </urlset>
